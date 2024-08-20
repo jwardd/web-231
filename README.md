@@ -1,2 +1,4 @@
-# web-231
-Bellevue University - WEB231-M318 Enterprise JavaScript l (2247-DD)
+<h1>WEB 231 Enterprise JavaScript I</h1>
+<h2>Contributors</h2>
+* Professor Krasso
+* Jacob Ward
